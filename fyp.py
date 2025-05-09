@@ -126,7 +126,7 @@ ganache_url = "HTTP://127.0.0.1:8545"
 web3 = Web3(Web3.HTTPProvider(ganache_url))
 
 # Smart Contract details
-contract_address = "0x7EF6b49e720A69C3F6086E4E618551c24d1a08b5"
+contract_address = "API_KEY"
 contract_abi = [
     {
         "inputs": [],
